@@ -1,4 +1,4 @@
-# ❌⭕ Text-Based Tic Tac Toe Game (Python)
+# ❌⭕ Text-Based Tic Tac Toe Game (Python) !!
 
 A simple **console-based Tic Tac Toe game** built using **Python**.  
 Two players (**X** and **O**) take turns marking positions on a **3×3 grid** until one player wins or the game ends in a draw.
@@ -7,7 +7,7 @@ This project demonstrates basic Python concepts such as functions, loops, condit
 
 ---
 
-## 🚀 Features
+## 🚀 Features !
 
 - 🖥️ Text-based (console) interface
 - 🧑‍🤝‍🧑 Two-player mode (X vs O)
@@ -20,7 +20,7 @@ This project demonstrates basic Python concepts such as functions, loops, condit
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠️ Technologies Used !
 
 - Python 3
 - Standard Python libraries only
@@ -29,7 +29,7 @@ This project demonstrates basic Python concepts such as functions, loops, condit
 
 ---
 
-## ▶️ How to Run the Game
+## ▶️ How to Run the Game !
 
 1. Make sure **Python 3** is installed on your system.
 2. Open a terminal in the project directory.
