@@ -18,16 +18,13 @@ This project demonstrates basic Python concepts such as functions, loops, condit
 - 🔁 Replay option after each game
 - 📘 Beginner-friendly logic and structure
 
----
 
 ## 🛠️ Technologies Used !
 
 - Python 3
 - Standard Python libraries only
 
----
 
----
 
 ## ▶️ How to Run the Game !
 
